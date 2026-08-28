@@ -33,14 +33,11 @@ I enjoy turning complex product and business requirements into maintainable mobi
 * Investigated production issues involving object lifecycle, retain cycles, polling, authentication boundaries, and session changes.
 * Treated automated testing and accessibility as part of implementation, not as final polish.
 
-## Featured projects
+## Latest Featured projects
 
 | Project                                                           | What it demonstrates                                                                                                            |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | [TatsuFlix-TCA](https://github.com/tatsunorijp/TatsuFlix-TCA)     | SwiftUI, The Composable Architecture, unidirectional data flow, async/await, typed networking, navigation, and debounced search |
-| [Tatsuflix](https://github.com/tatsunorijp/Tatsuflix)             | SwiftUI, MVVM, Combine, dependency injection, generic networking, localization, and unit testing                                |
-| [Rocket Reserver](https://github.com/tatsunorijp/RocketReserver)  | GraphQL with Apollo iOS, including queries, mutations, subscriptions, and secure token storage                                  |
-| [Chuck Norris App](https://github.com/tatsunorijp/ChuckNorrisApp) | UIKit, RxSwift, MVVM + RIBs, unit and UI testing, code generation, and Fastlane                                                 |
 
 ## What I'm currently exploring
 
